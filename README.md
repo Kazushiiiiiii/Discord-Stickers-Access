@@ -8,7 +8,7 @@
 > - Choississez le module "Stickers user Experiment" et choisissez "Treatment 1"
 > - Retourner ds le tchat normal et un nouveau logo apparaittera, vous pourrez cliquer sur le shop pour acheter des stickers (il y en a des payant et gratuits)
 
-## 👍 Aperçus final
+## 👍 Aperçu final
 ![Stickers](https://i.imgur.com/mkWBepD.png)
 ![Shop_Stickers](https://i.imgur.com/WD2mE59.png)
 
