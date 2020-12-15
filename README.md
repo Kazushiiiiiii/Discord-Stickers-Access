@@ -9,7 +9,8 @@
 > - Retourner ds le tchat normal et un nouveau logo apparaittera, vous pourrez cliquer sur le shop pour acheter des stickers (il y en a des payant et gratuits)
 
 ## 👍 Aperçus final
-![Stickers](https://i.imgur.com/CuOqfnf.png)
+![Stickers](https://i.imgur.com/mkWBepD.png)
+![Shop_Stickers](https://i.imgur.com/WD2mE59.png)
 
 #### Si vous avez des questions, venez en mp : Tilu#2502.
 
